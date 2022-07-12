@@ -1,2 +1,2 @@
 # temperature-convertor
-unfinished project
+Unfinished project.
